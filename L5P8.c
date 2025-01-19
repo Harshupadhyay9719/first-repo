@@ -1,5 +1,7 @@
 #include <stdio.h>
+
 void main(){
+         printf("THIS IS A  MATRIX MULTIPLICATION ");
     printf("enter the rows and column for the 1st matrix :: \n");
     int a,b,c,d,e;
     scanf("%d %d",&a,&b);
